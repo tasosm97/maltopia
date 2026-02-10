@@ -55,6 +55,10 @@ To ensure a great experience for everyone, all players must adhere to the follow
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   &nbsp;
+  <a href="https://twitch.tv/mallybubu">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="http://mc.maltopia.fun:8100">
     <img src="https://img.shields.io/badge/World_Map-27ae60?style=for-the-badge&logo=googlemaps&logoColor=white" />
   </a>
