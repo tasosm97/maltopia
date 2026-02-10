@@ -49,8 +49,23 @@ To ensure a great experience for everyone, all players must adhere to the follow
 ---
 
 ## 🔗 Useful Links
-* [Join our Discord](#) (https://discord.com/invite/d5mYMh6)
-* [Live World Map (BlueMap)](#) (http://mc.maltopia.fun:8100)
-* [Commands List](https://github.com/tasosm97/maltopia/blob/main/commands.md)
+
+  <p align="left">
+  <a href="https://discord.com/invite/d5mYMh6">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="http://mc.maltopia.fun:8100">
+    <img src="https://img.shields.io/badge/World_Map-27ae60?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/tasosm97/maltopia/blob/main/commands.md">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:support@maltopia.fun">
+    <img src="https://img.shields.io/badge/Email_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
