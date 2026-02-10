@@ -9,7 +9,7 @@ Here you will find all the details you need
 # Important notes
 Server is using a couple server-side mods but we recomend that you use the client-side mods provided above for a better experience.
 Examples of those are Voice-Chat so you can have proximity chat inside the server, Map mods, performance mods etc.
-We provide two sets of packs one for optimal experience and one for minimal requirements.
+We provide two sets of packs one for optimal experience and one for minimal requirements. The Mod client we recomend and provide the files for is Modrinth but you can choose the client of your likink and add the mods provided in the lists above.
 
 # Server Rules
 
