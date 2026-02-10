@@ -1,4 +1,4 @@
-# 🌍 Welcome to Maltopia
+# <img src="logo.png" alt="Maltopia Logo" width="60" vertical-align="middle"> Welcome to Maltopia
 
 Welcome to the official repository for the Maltopia Minecraft Server. This page contains everything you need to get started, join the community, and optimize your gameplay experience.
 
