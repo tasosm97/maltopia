@@ -1,24 +1,56 @@
-# Welcome to Maltopia's Minecraft Server
-Here you will find all the details you need
+# 🌍 Welcome to Maltopia
 
-# Server Address: mc.maltopia.fun
+Welcome to the official repository for the Maltopia Minecraft Server. This page contains everything you need to get started, join the community, and optimize your gameplay experience.
 
-# Server Edition
-1.21.11 (java)
+---
 
-# Important notes
-Server is using a couple server-side mods but we recomend that you use the client-side mods provided above for a better experience.
-Examples of those are Voice-Chat so you can have proximity chat inside the server, Map mods, performance mods etc.
-We provide two sets of packs one for optimal experience and one for minimal requirements. The Mod client we recomend and provide the files for is Modrinth but you can choose the client of your likink and add the mods provided in the lists above.
+## 🚀 Connection Info
+* **Server Address:** `mc.maltopia.fun`
+* **Version:** Java Edition 1.21.1
+* **Platform:** Paper (Optimized Survival)
 
-# Server Rules
+---
 
-1. Always be nice. That's the most important part of making a great community
-2. No Griefing
-3. No racism/hate
-4. No Cheating
-5. Claim your Land
-6. Listen to Staff
-7. PvP is optional unless you are at the arena by the spawn area
+## 🛠️ Recommended Client Mods
+While Maltopia works with a vanilla client, we **highly recommend** using our modpacks to unlock the full experience (like Proximity Voice Chat).
+
+### 📦 Download our Modpacks
+We provide official files for the **Modrinth** launcher, but you can manually install these in any launcher (Prism, CurseForge, etc.).
+
+| Pack Type | Description | Best For... |
+| :--- | :--- | :--- |
+| **Optimal Experience** | Full feature set: Proximity Chat, Map mods, Shaders, and UI enhancements. | Mid-to-High end PCs |
+| **Minimal Pack** | Essential performance fixes and Proximity Chat only. | Low-end PCs / Laptops |
+
+> [!TIP]
+> **Proximity Voice Chat:** To talk to other players in-game, you **must** have the [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) mod installed on your client!
+
+---
+
+## 📜 Server Rules
+To ensure a great experience for everyone, all players must adhere to the following guidelines:
+
+1.  **🤝 Be Kind:** Respect is the foundation of our community. Toxicity has no home here.
+2.  **🛡️ Claim Your Land:** Use the **Golden Shovel** system to protect your builds. If it isn't claimed, it isn't protected!
+3.  **🚫 No Griefing:** Do not destroy or alter other players' creations. We use CoreProtect to log and rollback all griefing.
+4.  **⚖️ Fair Play:** No cheating, X-Raying, or hacked clients. Performance mods are allowed and encouraged.
+5.  **🌈 Inclusive Environment:** Zero tolerance for racism, hate speech, or discrimination.
+6.  **⚔️ PvP Conduct:** PvP is optional in the wilderness (use `/pvp off`). However, PvP is **forced ON** within the designated Arena near Spawn.
+7.  **📣 Staff Authority:** Please follow instructions given by staff members.
+
+---
+
+## ⌨️ Quick Commands
+* `/spawn` — Return to the safety of spawn.
+* `/sethome` & `/home` — Save your base location.
+* `/pvp [on/off]` — Toggle your combat status in the wilderness.
+* `/tpa <player>` — Request to teleport to a friend.
+
+---
+
+## 🔗 Useful Links
+* [Join our Discord](#) *https://discord.com/invite/d5mYMh6*
+* [Live World Map (BlueMap)](#) *(Insert Link)*
+* [Wiki / Commands List](./wiki)
 
 
