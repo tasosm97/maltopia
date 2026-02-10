@@ -6,7 +6,7 @@ Welcome to the official repository for the Maltopia Minecraft Server. This page 
 
 ## 🚀 Connection Info
 * **Server Address:** `mc.maltopia.fun`
-* **Version:** Java Edition 1.21.1
+* **Version:** Java Edition 1.21.11
 * **Platform:** Paper (Optimized Survival)
 
 ---
