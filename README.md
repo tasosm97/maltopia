@@ -26,7 +26,7 @@ We provide official files for the **Modrinth** launcher, but you can manually in
 > **Proximity Voice Chat:** To talk to other players in-game, you **must** have the [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) mod installed on your client!
 
 ---
-  <a href="https://modrinth.com/">
+  <a href="https://modrinth.com/modpack/maltopia">
     <img src="https://img.shields.io/badge/Modrinth_Packs-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" />
   </a>
   &nbsp;
@@ -86,7 +86,7 @@ Maltopia uses **Simple Voice Chat** for an immersive experience.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://modrinth.com/">
+  <a href="https://modrinth.com/modpack/maltopia">
     <img src="https://img.shields.io/badge/Modrinth_Packs-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" />
   </a>
   &nbsp;
