@@ -51,7 +51,14 @@ To ensure a great experience for everyone, all players must adhere to the follow
 * `/tpa <player>` — Request to teleport to a friend.
 
 ---
+### 🎤 Using Voice Chat
+Maltopia uses **Simple Voice Chat** for an immersive experience. 
+* **Settings Menu:** Press `V`  
+* **Mute Mic:** Press `M`  
+* **Push-to-Talk:** (Optional) Set this up in the `V` menu.
 
+> [!TIP]
+> If people can't hear you, press `V` -> **Settings** -> **Select Microphone** to make sure your correct device is picked!
 ---
 
 <p align="left">
