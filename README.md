@@ -3,8 +3,8 @@ Here you will find all the details you need
 
 # Server Address: mc.maltopia.fun
 
-# Minecraft Edition
-1.21.11
+# Server Edition
+1.21.11 (java)
 
 # Important notes
 Server is using a couple server-side mods but we recomend that you use the client-side mods provided above for a better experience.
