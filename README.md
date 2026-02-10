@@ -49,8 +49,8 @@ To ensure a great experience for everyone, all players must adhere to the follow
 ---
 
 ## 🔗 Useful Links
-* [Join our Discord](#) *https://discord.com/invite/d5mYMh6*
-* [Live World Map (BlueMap)](#) *http://mc.maltopia.fun:8100*
+* [Join our Discord](#) (https://discord.com/invite/d5mYMh6)
+* [Live World Map (BlueMap)](#) (http://mc.maltopia.fun:8100)
 * [Commands List](https://github.com/tasosm97/maltopia/blob/main/commands.md)
 
 
