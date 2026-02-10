@@ -52,6 +52,14 @@ To ensure a great experience for everyone, all players must adhere to the follow
 
 ---
 
+---
+
+<p align="left">
+  <b>Built with ❤️ by the Maltopia Team</b><br>
+  👑 <b>Owner:</b> Mallybubu &nbsp; | &nbsp; 🛠️ <b>Developer:</b> Tasoscf7 &nbsp; | &nbsp; 🛡️ <b>Moderator:</b> Solentro
+</p>
+
+
 ## 🔗 Useful Links
 
   <p align="left">
