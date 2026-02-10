@@ -67,6 +67,10 @@ To ensure a great experience for everyone, all players must adhere to the follow
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
+  <a href="https://modrinth.com/">
+    <img src="https://img.shields.io/badge/Modrinth_Packs-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="mailto:support@maltopia.fun">
     <img src="https://img.shields.io/badge/Email_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
