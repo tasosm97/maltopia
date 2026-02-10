@@ -51,6 +51,6 @@ To ensure a great experience for everyone, all players must adhere to the follow
 ## 🔗 Useful Links
 * [Join our Discord](#) *https://discord.com/invite/d5mYMh6*
 * [Live World Map (BlueMap)](#) *(Insert Link)*
-* [Commands List]()
+* [Commands List](https://github.com/tasosm97/maltopia/blob/main/commands.md)
 
 
