@@ -82,7 +82,7 @@ Maltopia uses **Simple Voice Chat** for an immersive experience.
     <img src="https://img.shields.io/badge/World_Map-27ae60?style=for-the-badge&logo=googlemaps&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/tasosm97/maltopia/blob/main/commands.md">
+  <a href="https://github.com/tasosm97/maltopia/blob/main/Usefull_Intructions/commands.md">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
