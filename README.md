@@ -1,4 +1,4 @@
-# Welcome to Maltopia Minecraft Server
+# Welcome to Maltopia's Minecraft Server
 Here you will find all the details you need
 
 # Server Address: mc.maltopia.fun
@@ -16,6 +16,9 @@ We provide two sets of packs one for optimal experience and one for minimal requ
 1. Always be nice. That's the most important part of making a great community
 2. No Griefing
 3. No racism/hate
-4. PvP is optional unless you are at the Arena by the spawn area
+4. No Cheating
+5. Claim your Land
+6. Listen to Staff
+7. PvP is optional unless you are at the arena by the spawn area
 
 
