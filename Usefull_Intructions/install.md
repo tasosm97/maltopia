@@ -21,7 +21,14 @@ If you don't have it yet, download the official launcher here:
 
 ---
 
-### 3. Import the Maltopia Pack
+### 3. Download Pack
+Download the official `.mrpack` to use in Maltopia.
+
+* **Download:** [Maltopia-Pack](https://modrinth.com/modpack/maltopia)
+
+---
+
+### 4. Import the Maltopia Pack
 Instead of creating a new profile from scratch, we will use the file you downloaded:
 1.  Click the **plus (+) icon** in the left sidebar (Create New Instance).
 2.  At the top, select the **From file** tab.
@@ -33,7 +40,7 @@ Instead of creating a new profile from scratch, we will use the file you downloa
 ---
 
 
-### 4. Launch & Play
+### 5. Launch & Play
 1.  Once the progress bar finishes, click the **Play** button on the Maltopia instance.
 2.  Go to **Multiplayer** and the server should already be in your list (if included in the pack), or you can add our IP!
 
