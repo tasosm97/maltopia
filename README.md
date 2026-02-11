@@ -61,6 +61,14 @@ Maltopia uses **Simple Voice Chat** for an immersive experience.
 > If people can't hear you, press `V` -> **Settings** -> **Select Microphone** to make sure your correct device is picked!
 ---
 
+## 🚀 Getting Started
+Ready to play on Maltopia? You will need to install our official modpack to join.
+
+👉 **[View the full Installation Guide here](Usefull_Intructions/install.md)**
+
+---
+
+
 <p align="left">
   <b>Built with ❤️ by the Maltopia Team</b><br>
   👑 <b>Owner:</b> Mallybubu &nbsp; | &nbsp; 🛠️ <b>Developer:</b> Tasoscf7 &nbsp; | &nbsp; 🛡️ <b>Moderator:</b> Solentro
