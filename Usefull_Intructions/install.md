@@ -25,7 +25,7 @@ If you don't have it yet, download the official launcher here:
 Instead of creating a new profile from scratch, we will use the file you downloaded:
 1.  Click the **plus (+) icon** in the left sidebar (Create New Instance).
 2.  At the top, select the **From file** tab.
-3.  Click **Browse** and select the `Maltopia.mrpack` file you downloaded.
+3.  Click **Browse** and select the `.mrpack` file you downloaded.
 4.  Click **Create** at the bottom.
 
 ![Import from File](../images/import_step.jpg)
