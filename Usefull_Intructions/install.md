@@ -8,7 +8,7 @@ Follow these steps to install the modpack using the **Modrinth App**. Since you 
 If you don't have it yet, download the official launcher here:
 * **Download:** [modrinth.com/app](https://modrinth.com/app)
 
-![Download Page](images/download_page.jpg)
+![Download Page](../images/download_page..jpg)
 
 ---
 
@@ -17,7 +17,7 @@ If you don't have it yet, download the official launcher here:
 2.  Click **Log In** at the bottom left.
 3.  Sign in with your **Microsoft Account** (Minecraft account).
 
-![Login Step](images/login_step.jpg)
+![Login Step](../images/login_step.jpg)
 
 ---
 
@@ -28,7 +28,7 @@ Instead of creating a new profile from scratch, we will use the file you downloa
 3.  Click **Browse** and select the `Maltopia.mrpack` file you downloaded from GitHub.
 4.  Click **Create** at the bottom.
 
-![Import from File](images/import_step.jpg)
+![Import from File](../images/import_step.jpg)
 
 ---
 
@@ -37,7 +37,7 @@ Instead of creating a new profile from scratch, we will use the file you downloa
 1.  Once the progress bar finishes, click the **Play** button on the Maltopia instance.
 2.  Go to **Multiplayer** and the server should already be in your list (if included in the pack), or you can add our IP!
 
-![Ready to Play](images/play_button.jpg)
+![Ready to Play](../images/play_button.jpg)
 
 ---
 **💡 Having Trouble?**
