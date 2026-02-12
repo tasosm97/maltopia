@@ -42,10 +42,10 @@ Instead of creating a new profile from scratch, we will use the file you downloa
 
 ### 5. Launch & Play
 1.  Once the progress bar finishes, click the **Play** button on the Maltopia instance.
-2.  Go to **Multiplayer** and the server should already be in your list (if included in the pack), or you can add our IP!
+2.  Go to **Multiplayer** and the server should already be in your list , or you can add `mc.maltopia.fun`!
 
 ![Ready to Play](../images/play_button.jpg)
 
 ---
 **💡 Having Trouble?**
-If the game crashes or you get a "Resource Reload Failed" message, please post a screenshot in the `#support` channel of our Discord!
+If the game crashes or you get a "Resource Reload Failed" message, please post a screenshot in the `#support` channel of our Discord or e-mail us at `support@maltopia.fun`!
