@@ -19,7 +19,7 @@ We provide official files for the **Modrinth** launcher, but you can manually in
 
 | Pack Type | Description | Best For... |
 | :--- | :--- | :--- |
-| [**Optimal Experience**](https://modrinth.com/modpack.maltopia) | Full feature set: Proximity Chat, Map mods, Shaders, and UI enhancements. | Mid-to-High end PCs |
+| [**Optimal Experience**](https://github.com/tasosm97/maltopia/raw/refs/heads/main/Usefull_Intructions/Maltopia%20Optimal%201.0.0.mrpack) | Full feature set: Proximity Chat, Map mods, Shaders, and UI enhancements. | Mid-to-High end PCs |
 | [**Minimal Pack**](https://modrinth.com/modpack.maltopia) | Essential performance fixes and Proximity Chat only. | Low-end PCs / Laptops |
 
 > [!TIP]
