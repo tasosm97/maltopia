@@ -2,6 +2,8 @@
 
 Welcome to the official repository for the Maltopia Minecraft Server. This page contains everything you need to get started, join the community and optimize your gameplay experience.
 
+![Spawn](/images/spawn.jpg)
+
 ---
 
 ## 🚀 Connection Info
