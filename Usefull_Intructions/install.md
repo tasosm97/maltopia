@@ -24,7 +24,7 @@ If you don't have it yet, download the official launcher here:
 ### 3. Download Pack
 Download the official `.mrpack` to use in Maltopia.
 
-* **Download:** [Maltopia-Pack](https://modrinth.com/modpack/maltopia)
+* **Download:** [Maltopia-Pack](https://github.com/tasosm97/maltopia/raw/refs/heads/main/Usefull_Intructions/Maltopia%20Optimal%201.0.0.mrpack)
 
 ---
 
